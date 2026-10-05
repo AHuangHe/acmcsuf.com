@@ -3595,16 +3595,6 @@
           "title": "Event Coordinator",
           "tier": 6
         }
-      ],
-      "F26": [
-        {
-          "title": "Event Coordinator",
-          "tier": 6
-        },
-        {
-          "title": "Node Buds Officer",
-          "tier": 26
-        }
       ]
     },
     "discord": "@lalalaliz"
@@ -3771,12 +3761,6 @@
           "title": "Marketing Officer",
           "tier": 9
         }
-      ],
-      "F26": [
-        {
-          "title": "Node Buds Officer",
-          "tier": 26
-        }
       ]
     },
     "discord": "@steezyprogrammer"
@@ -3834,10 +3818,6 @@
         {
           "title": "Vice President",
           "tier": 1
-        },
-        {
-          "title": "Node Buds Officer",
-          "tier": 26
         }
       ]
     },
@@ -3958,12 +3938,6 @@
         {
           "title": "Marketing Officer",
           "tier": 9
-        }
-      ],
-      "F26": [
-        {
-          "title": "Node Buds Officer",
-          "tier": 26
         }
       ]
     },
@@ -4335,10 +4309,6 @@
         {
           "title": "Node Buds Team Lead",
           "tier": 34
-        },
-        {
-          "title": "Marketing Officer",
-          "tier": 9
         }
       ]
     },
@@ -4355,10 +4325,6 @@
         }
       ],
       "F26": [
-        {
-          "title": "Node Buds Officer",
-          "tier": 26
-        },
         {
           "title": "Open Source Officer",
           "tier": 33
@@ -4520,5 +4486,31 @@
       ]
     },
     "discord": "@thetunasalad"
+  },
+  {
+    "fullName": "Abril Pérez",
+    "picture": "placeholder.webp",
+    "positions": {
+      "F26": [
+        {
+          "title": "Marketing Officer",
+          "tier": 9
+        }
+      ]
+    },
+    "discord": "@aprill._."
+  },
+  {
+    "fullName": "Ronny Johnson",
+    "picture": "ronny-johnson.webp",
+    "positions": {
+      "F26": [
+        {
+          "title": "Design Officer",
+          "tier": 16
+        }
+      ]
+    },
+    "discord": "@astron793"
   }
 ]
